@@ -1,23 +1,22 @@
-.cabecalho{
-    background-color:pink;
-    color:black;
+.cabecalho {
+    background-color: pink;
+    color: black;
     display: flex;
-    padding: 24px 0;}
-
-    .section1{background-color: white;
-        padding: 100px;
-    }
-    .section2{background-color:white;
-    padding: 100px
-
+    padding: 24px 0;
 }
-.cabecalho-imagem{
+
+.section1 {
+    background-color: white;
+    color: azure;
+    padding: 100px;
+}
+
+.section2 {
+    background-color: white;
+    color: azure;
+    padding: 100px
+}
+
+.cabecalho-imagem {
     width: 20%;
 }
-    
-
-    
-        
-
-
-    
