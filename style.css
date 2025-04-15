@@ -6,14 +6,14 @@
 }
 
 .section1 {
-    background-color:black;
-    color:azure;
+    background-color: aliceblue;
+    color:black;
     padding: 100px;
 }
 
 .section2 {
-    background-color:black;
-    color:azure;
+    background-color:aliceblue;
+    color: black;
     padding: 100px
 }
 
@@ -21,5 +21,5 @@
     width: 20%;
 }
 .rodape{
-    background-color: aliceblue;
+    background-color:pink;
 }
